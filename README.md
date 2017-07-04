@@ -1,2 +1,2 @@
 # nitrux-wallpapers-free
-A collection of vibrant, modern and Nitrux flavored wallpapers.
+A collection of vibrant, modern wallpapers by Nitrux and contributors.
