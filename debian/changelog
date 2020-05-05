@@ -1,4 +1,10 @@
-nitrux-wallpapers-free (0.0.1) bionic; urgency=medium
+nitrux-wallpapers-free (0.0.2) nitrux; urgency=medium
+
+  * Move folders to correct path.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Tue, 05 May 2020 01:45:00 -0500
+
+nitrux-wallpapers-free (0.0.1) nitrux; urgency=medium
 
   * Create package
 
