@@ -1,3 +1,9 @@
+nitrux-wallpapers-free (0.0.3) nitrux; urgency=medium
+
+  * Add more wallpapers.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 07 May 2020 20:25:00 -0500
+
 nitrux-wallpapers-free (0.0.2) nitrux; urgency=medium
 
   * Move folders to correct path.
