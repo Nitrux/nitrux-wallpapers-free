@@ -1,4 +1,4 @@
-# Nitrux Wallpapers
+# Nitrux Wallpapers [![Build Status](https://travis-ci.org/Nitrux/nitrux-wallpapers-free.svg?branch=master)](https://travis-ci.org/Nitrux/nitrux-wallpapers-free)
 A collection of vibrant, modern wallpapers by Nitrux and contributors.
 
 # Issues
