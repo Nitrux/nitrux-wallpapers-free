@@ -1,5 +1,11 @@
 nitrux-wallpapers-free (0.0.6) nitrux; urgency=medium
 
+  * Fix metadata in desktop files.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 25 Jul 2020 04:52:00 -0500
+
+nitrux-wallpapers-free (0.0.6) nitrux; urgency=medium
+
   * Add more wallpapers.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Sat, 12 Jun 2020 02:07:00 -0500
