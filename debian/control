@@ -7,7 +7,7 @@ Standards-Version: 3.9.6
 Homepage: https://github.com/Nitrux/nitrux-wallpapers-free
 
 Package: nitrux-wallpapers-free
-Architecture: any
+Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Nitrux Wallpapers
   A collection of vibrant, modern wallpapers by Nitrux and contributors.
