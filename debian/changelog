@@ -1,3 +1,9 @@
+nitrux-wallpapers-free (0.1.2) nitrux; urgency=medium
+
+  * Fix typo in filenames.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 30 Oct 2022 23:28:00 -0500
+
 nitrux-wallpapers-free (0.1.1) nitrux; urgency=medium
 
   * Add more wallpapers.
